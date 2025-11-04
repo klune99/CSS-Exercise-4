@@ -1,42 +1,32 @@
-
-body {
-    margin: 0px;
-}
-
-
-.fish-header {
+.header {
     max-width: 1000px;
     margin: auto;
     background-color: rgb(105, 173, 137);
 }
 
-
-.main-fish-content {
+.main-content {
     display: flex;
     max-width: 1000px;
     margin: auto;
 }
 
-
-.side-fish-nav {
+.side-nav {
+    width: 250px;
     padding: 20px;
     margin-right: 20px;
     background-color: rgb(64, 113, 127);
 }
 
-
-.fish-main {
+.main {
     padding: 20px;
     background-color: lightgreen;
 }
 
-
-.fish-footer-content {
+.footer-content {
     max-width: 1000px;
     background-color: rgb(50, 150, 77);
     margin: auto;
 }
-
 
 
 
