@@ -1,0 +1,81 @@
+
+body {
+    margin: 0px;
+}
+
+
+.fish-header {
+    max-width: 1000px;
+    margin: auto;
+    background-color: rgb(105, 173, 137);
+}
+
+
+.main-fish-content {
+    display: flex;
+    max-width: 1000px;
+    margin: auto;
+}
+
+
+.side-fish-nav {
+    padding: 20px;
+    margin-right: 20px;
+    background-color: rgb(64, 113, 127);
+}
+
+
+.fish-main {
+    padding: 20px;
+    background-color: lightgreen;
+}
+
+
+.fish-footer-content {
+    max-width: 1000px;
+    background-color: rgb(50, 150, 77);
+    margin: auto;
+}
+
+
+
+
+
+
+
+.herp-header {
+    max-width: 1000px;
+    margin: auto;
+    background-color: rgb(91, 188, 188);
+}
+
+
+.main-herp-content {
+    display: flex;
+    flex-direction: row-reverse;
+    max-width: 1000px;
+    margin: auto;
+}
+
+
+.side-herp-nav {
+    
+    padding: 20px;
+    margin-left: 20px;
+    background-color: rgb(157, 250, 250);
+    
+}
+
+
+.herp-main {
+    padding: 20px;
+    background-color: lightblue;
+    
+}
+
+
+.herp-footer-content {
+    max-width: 1000px;
+    background-color: rgb(14, 128, 185);
+    margin: auto;
+}
